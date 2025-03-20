@@ -1,0 +1,5 @@
+0 gül
+1 lale
+2 menekşe
+3 orkide
+4 papatya

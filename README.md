@@ -1,0 +1,1 @@
+bu proje pythonla yazılmıstır. Bilgisayarla görüyü kullanarak çiçekler için bakım tavsiyesi sunan bir discord botudur.
